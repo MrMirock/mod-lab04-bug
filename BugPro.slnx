@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BugPro/BugPro.csproj" />
+  <Project Path="BugTests/BugTests.csproj" />
+</Solution>
