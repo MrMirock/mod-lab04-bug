@@ -1,0 +1,17 @@
+C:\Users\Tolya\source\repos\BugPro\BugPro\bin\Debug\net9.0\BugPro.exe
+C:\Users\Tolya\source\repos\BugPro\BugPro\bin\Debug\net9.0\BugPro.deps.json
+C:\Users\Tolya\source\repos\BugPro\BugPro\bin\Debug\net9.0\BugPro.runtimeconfig.json
+C:\Users\Tolya\source\repos\BugPro\BugPro\bin\Debug\net9.0\BugPro.dll
+C:\Users\Tolya\source\repos\BugPro\BugPro\bin\Debug\net9.0\BugPro.pdb
+C:\Users\Tolya\source\repos\BugPro\BugPro\bin\Debug\net9.0\Stateless.dll
+C:\Users\Tolya\source\repos\BugPro\BugPro\obj\Debug\net9.0\BugPro.csproj.AssemblyReference.cache
+C:\Users\Tolya\source\repos\BugPro\BugPro\obj\Debug\net9.0\BugPro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tolya\source\repos\BugPro\BugPro\obj\Debug\net9.0\BugPro.AssemblyInfoInputs.cache
+C:\Users\Tolya\source\repos\BugPro\BugPro\obj\Debug\net9.0\BugPro.AssemblyInfo.cs
+C:\Users\Tolya\source\repos\BugPro\BugPro\obj\Debug\net9.0\BugPro.csproj.CoreCompileInputs.cache
+C:\Users\Tolya\source\repos\BugPro\BugPro\obj\Debug\net9.0\BugPro.csproj.Up2Date
+C:\Users\Tolya\source\repos\BugPro\BugPro\obj\Debug\net9.0\BugPro.dll
+C:\Users\Tolya\source\repos\BugPro\BugPro\obj\Debug\net9.0\refint\BugPro.dll
+C:\Users\Tolya\source\repos\BugPro\BugPro\obj\Debug\net9.0\BugPro.pdb
+C:\Users\Tolya\source\repos\BugPro\BugPro\obj\Debug\net9.0\BugPro.genruntimeconfig.cache
+C:\Users\Tolya\source\repos\BugPro\BugPro\obj\Debug\net9.0\ref\BugPro.dll
